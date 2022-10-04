@@ -1,0 +1,39 @@
+.card .card-header .btn-list-add{
+    right: 30px;
+    position: absolute;
+}
+.invalid-feedback{
+    display: block !important;
+}
+table tr td img.col-image{
+    width: 180px;
+    border-radius: 0;
+}
+
+.buynow {
+    display: block;
+    padding: 13px 34px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    background: #5cb85c;
+    margin: 15px 0 0 0;
+    border: 0;
+     width: 100%;
+}
+
+table tr td a img.col-image{
+    padding: 10px 5px;
+}
+.sidebar-brand{
+    background: #000;
+}
+.main-sidebar .sidebar-brand a .header-logo{
+    height: 80% !important;
+}
+.form-group sup{
+    color: #f00;
+    size: 14px;
+}
+

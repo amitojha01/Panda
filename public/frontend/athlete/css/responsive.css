@@ -1,0 +1,1425 @@
+
+
+
+@media only screen and (min-width:200px) and (max-width:767px) {
+.signinfooter {
+    padding: 0 15px 0 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+	
+.signinfooter_l, .signinfooter_r  {
+    float: none;
+}	
+	
+.signinfooter_r ul li {
+    display: inline-block;
+    margin-left: 0;
+    padding: 0 8px 10px 8px;
+}
+	
+.signinheader_l {
+    float: none;
+    text-align: center;
+}
+	
+.signinheader_r {
+    float: none;
+    text-align: center;
+    padding: 10px 0 0 0;
+}
+	
+.signinbox {
+    width: 90%;
+    float: none;
+    margin-right: auto;
+    padding: 70px 0 80px 0;
+    margin-left: auto;
+}
+	
+.boxed label {
+    display: inline-block;
+    width: 134px;
+    height: 174px;
+    padding: 10px;
+    transition: all 0.3s;
+    border-radius: 10px;
+    background: #404040;
+    text-align: center;
+    padding: 30px 0 0 0;
+}
+	
+.signinbox label{
+	font-size:13px;
+}
+	
+.createaccount2 span a {
+    padding: 10px 30px;
+    border: rgba(255,255,255,0.5) solid 1px;
+    font-size: 13px;
+    font-family: 'AeonikRegular';
+    float: right;
+    color: #FFFFFF;
+    border-radius: 50px;
+    margin-top: 9px;
+    letter-spacing: 1px;
+    position: absolute;
+    left: 0;
+}
+	
+.signinbox h5 {
+    padding: 59px 0 15px 0;
+    margin: 0;
+    color: #4BFF00;
+    font-size: 14px;
+    font-family: 'AeonikRegular';
+    text-transform: uppercase;
+}
+	
+.greentick {
+    bottom: 12px;
+}
+	
+.verify {
+    bottom: 7px;
+}
+	
+.signinbox span {
+       position: relative;
+}
+	
+.signinbox span {
+
+    font-size: 14px;
+}
+	
+.signinboxinput {
+    width: 100%;
+    float: none;
+    position: relative;
+}
+	
+.signinboxinput2 {
+    width: 100%;
+    float: none;
+    position: relative;
+}
+	
+.savecontinue {
+    font-size: 15px;
+}
+	
+.weightselectdropdown {
+    bottom: 6px;
+}	
+	
+.signinbox h5 b {
+    float: none;
+    display: block;
+}
+
+.dashboard_l {
+    width: 100%;
+    background: #FFD500;
+    float: none;
+}
+
+.dashboard_r {
+    width: 100%;
+    background: #404040;
+    float: none;
+    padding: 0 15px 30px 15px;
+}
+	
+.dashlogo{
+	display:block;
+	float: 	none;
+	text-align: center;
+	width: 100%;
+	margin: 0;
+}
+
+.dashboard_l header{
+	display:block;
+	float: none;
+	text-align: center;
+}
+	
+
+	
+.button:before {
+    background: #000;
+}
+	
+.button:after {
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+	
+.dashboard_r_top_r {
+    float: left;
+    padding: 5px 0px;
+    background: none;
+    width: 100%;
+    text-align: right;
+}
+	
+.button {
+    width: 55px;
+    height: 46px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    z-index: 12399994;
+    left: 0;
+    margin: 0 auto;
+}
+	
+#cssmenu > ul > li {
+    margin-bottom: 0;
+}
+	
+#cssmenu > ul > li {
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0;
+    border-right: #000 solid 4px;
+}
+	
+.button.menu-opened:before {
+    background: #000;
+}
+	
+.button.menu-opened:after {
+    background: #000;
+}
+	
+#cssmenu .submenu-button:before {
+    background: #000;
+}
+	
+#cssmenu .submenu-button:after {
+    background: #000;
+}
+.searaddathletes {
+    width: 80%;
+    margin: 0 0 30px 0;
+    display: inline-block;
+}
+	
+#cssmenu li:hover > ul {
+    left: 0;
+    top: 0;
+    z-index: 999;
+}
+	
+#cssmenu .submenu-button:before {
+    background: #fff;
+}
+	
+#cssmenu .submenu-button:after {
+    background: #fff;
+}
+	
+.addathe_box_r {
+    float: none;
+    text-align: center;
+}
+	
+.filter {
+    float: none;
+    margin: 9px 0 0 15px;
+    display: inline-block;
+}
+	
+#cssmenu > ul > li:last-child {
+    margin-top: 0;
+}
+	
+.addhighlightsbtn {
+    background: #DB0000;
+    padding: 11px 55px;
+    display: inline-block;
+    border: 0;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'AeonikMedium'  !important;
+    border-radius: 5px;
+    margin: 15px 0 0 0;
+}
+	
+.addgamehighlightesinner {
+    width: 100%;
+}
+	
+.datrrecordtext {
+    width: 100%;
+}
+	
+.dashbottom {
+    padding: 15px 0 0 0;
+}
+	
+	
+.myprofile_l {
+    width: 66px;
+    height: 66px;
+    border-radius: 50%;
+    float: none;
+}
+	
+.myprofile_mid {
+    float: none;
+    padding: 15px 0 0 0;
+    width: 100%;
+}
+	
+.myprofile_mid {
+    float: none;
+    padding: 15px 0 0 0;
+    width: 100%;
+}
+	
+.followerspanel {
+    border-top: #2c2c2c solid 1px;
+    margin: 20px 0 0 0;
+    padding: 20px 10px 10px 10px;
+}
+	
+.followlink {
+    background: #DB0000;
+    padding: 8px 22px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 10px;
+    display: block;
+    margin: 0 0 15px 0;
+    text-align: center;
+}
+	
+.addtocompare {
+    background: #000;
+    padding: 8px 22px;
+    border-radius: 5px;
+    color: #FFD500;
+    font-size: 12px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    border: #FFD500 solid 1px;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+	
+.chat_right {
+    width: 100%;
+    border-radius: 10px;
+    background: #fff;
+    margin: 30px 0 0 0;
+}
+	
+.chat_right {
+    width: 100%;
+    border-radius: 10px;
+    background: #fff;
+    margin: 30px 0 0 0;
+}
+	
+.textchat1 {
+    float: right;
+    max-width: 107%;
+    padding: 0 50px 30px 0;
+    position: relative;
+    margin-right: 12px;
+}
+	
+.textchat2 {
+    float: left;
+    max-width: 90%;
+    padding: 0 00px 0 50px;
+    position: relative;
+}
+	
+.inputchat {
+    border: #DBE5ED solid 1px;
+    border-radius: 6px;
+    height: auto;
+    position: relative;
+}
+
+.inputchat_l {
+    float: none;
+    width: 100%;
+}
+	
+.inputchat_r {
+    float: none;
+    width: 100%;
+	padding: 0 10px 10px 0;
+	text-align: center;
+}
+	
+.emoji {
+    margin: 15px 0 0 0;
+    float: none;
+    display: inline-block;
+}
+	
+.file-input {
+    float: none;
+    margin: 0 0 0 10px;
+    display: inline-block;
+}
+	
+.sendmsg {
+    display: inline-block;
+}
+	
+.tab-menu ul li a {
+    text-decoration: none;
+    color: #FFD500;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 12px 27px;
+    border-radius: 4px;
+    display: inline-block;
+    background: none;
+    font-size: 14px;
+    font-family: 'AeonikMedium';
+    border: #FFD500 solid 2px;
+    border-bottom: 0;
+    -webkit-border-top-right-radius: 50px;
+    -moz-border-radius-topright: 50px;
+    border-top-right-radius: 50px;
+    -webkit-border-top-left-radius: 50px;
+    -moz-border-radius-topleft: 50px;
+    border-top-left-radius: 50px;
+    text-transform: uppercase;
+}
+	
+a.selectnewathletes {
+    background: #DB0000;
+    padding: 7px 9px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'AeonikRegular';
+    display: inline-block;
+    text-transform: uppercase;
+    color: #fff;
+    position: relative;
+    right: 0;
+    top: 0;
+    margin: 0 0 15px 0;
+}
+	
+.createteamingup_l {
+    padding: 30px;
+    background: #000;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+	
+.athletic_competencybox h4{
+	font-size:20px;
+}
+	
+.myprofile_r {
+    float: left;
+    padding: 15px 0 0 0;
+}
+	
+#coachslider .owl-controls .owl-nav .owl-prev {
+    top: -64px;
+}
+	
+#coachslider .owl-controls .owl-nav .owl-next {
+    top: -64px;
+}
+	
+.gameboxheighlightsbox {
+    margin: 15px 0;
+}
+
+.subcriptionbox {
+    width: 100%;
+    height: auto;
+    margin: 50px auto 80px auto;
+    border: #707070 solid 1px;
+    border-radius: 10px;
+}
+	
+.subcriptionbox_l {
+    background: url(../images/subcription_img.png) no-repeat 0 0;
+    width: 100%;
+    float: none;
+    background-size: cover;
+    height: 562px;
+    padding: 50px 30px 0 30px;
+}
+	
+.subcriptionbox_r {
+    width: 100%;
+    float: none;
+    padding: 25px 20px;
+}
+	
+.activelicense {
+    background: #FFD500;
+    padding: 12px 70px 12px 12px;
+    border-radius: 10px;
+    width: 90%;
+    margin: 42px auto 0 auto;
+    position: relative;
+}
+	
+.subcriptionrdiobox {
+    background: #404040;
+    padding: 10px;
+    border-radius: 10px;
+    width: 129px;
+    height: 68px;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+}
+	
+.subcriptionbtn {
+    background: #DB0000;
+    padding: 14px 20px;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    display: inline-block;
+    border: 0;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    margin: 0px 0 0 0;
+}
+	
+.TeamingUPbox {
+    background: #000000;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #000;
+    margin: 30px 0 30px 0;
+}
+	
+.teamingupdetails_l_member ul li a {
+    width: 100%;
+    border-bottom: #464646 solid 1px;
+    padding: 12px 12px;
+    display: block;
+    font-size: 12px;
+    font-family: 'AeonikRegular';
+    color: rgba(255,255,255,0.7);
+    letter-spacing: 1px;
+}
+	
+.teamingupdetails_l_member ul li a b {
+    border: #4BFF00 solid 1px;
+    border-radius: 50px;
+    background: #000;
+    color: #4BFF00;
+    float: right;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    padding: 3px 7px;
+    font-weight: normal;
+    font-size: 9px;
+}
+	
+	
+.workout_right_l {
+    width: 100%;
+    float: none;
+    padding: 0 20px 0 20px;
+    border-right: #154600 solid 1px;
+}
+	
+.workout_right_r {
+    width: 100%;
+    float: none;
+    padding: 20px 20px 0 20px;
+}
+	
+.addyourdashboard {
+    background: #DB0000;
+    padding: 10px 8px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'AeonikMedium';
+    letter-spacing: 1px;
+    margin: 0 0 20px 0;
+    display: block;
+}
+	
+.workout_l_box {
+    border: #4BFF00 solid 1px;
+    width: 100%;
+    height: 90px;
+    border-radius: 10px;
+    margin: 10px 0 10px 0;
+    position: relative;
+}
+	
+#cssmenu ul li a{
+    width: 100%;
+    border-bottom: 0;
+    padding: 25px 0 !important;
+}
+	
+.addvideoevedancesmalltext {
+    width: 100%;
+    float: none;
+    margin: 0 25px 30px 0;
+}
+	
+.recommendationsearch {
+    width: 100%;
+    height: 59px;
+    background: #545454;
+    border-radius: 50px;
+    margin: 0 0 20px 0;
+}
+	
+.recommendationsearch input[type="text"] {
+    width: 47%;
+    float: left;
+    height: 58px;
+    border: 0;
+    padding: 0 15px;
+    font-size: 14px;
+    font-family: 'AeonikRegular';
+    boredr-radius: 50px;
+    background: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+	
+.recommendationsearch .recommendationsearchbtn {
+    width: 45%;
+    float: right;
+    border: 0;
+    padding: 6px 21px;
+    font-size: 14px;
+    font-family: 'AeonikRegular';
+    border-radius: 50px;
+    background: #DB0000;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 13px 15px 0 0;
+}
+	
+.searchresultrecommendation {
+    width: 100%;
+    height: auto;
+    background: #404040;
+    border-radius: 10px;
+    padding: 15px;
+}
+	
+.searchresultrecommendation_r {
+    width: 100%;
+    float: none;
+}
+	
+.dashboard_r_top_l h1 {
+    padding: 0;
+    margin: 0;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'AeonikBold';
+}
+	
+.dashboard_r_top_l h1 {
+    padding: 0;
+    margin: 0;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'AeonikBold';
+}
+	
+.usernotfound {
+    text-align: center;
+    width: 100%;
+}
+	
+.sendyouprofilelink_box {
+    width: 100%;
+    float: none;
+    margin-right: 15px;
+}
+	
+#invitealink .modal-dialog {
+    width: 93%;
+    height: 475px;
+    background: #404040;
+    border-radius: 0;
+    padding: 15px 0 15px 0;
+}
+	
+.searchpanelbox {
+    position: relative;
+    top: 0;
+    right: 0;
+}
+	
+.tab-menu ul li{
+	display:block;
+}
+
+.tab-menu ul li a {    
+    width: 100%;
+}
+	
+}
+@media only screen and (min-width:200px) and (max-width:319px) {
+}
+
+
+@media only screen and (min-width:320px) and (max-width:479px) {
+	
+	
+	
+}
+	
+	
+@media only screen and (min-width:480px) and (max-width:767px) {
+	
+#coachslider .owl-controls .owl-nav .owl-prev {
+    top: -44px;
+}
+	
+#coachslider .owl-controls .owl-nav .owl-next {
+    top: -44px;
+}
+		
+	
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+.signinfooter_l, .signinfooter_r  {
+    float: none;
+	text-align: center;
+}	
+	
+.signinfooter_r ul li {
+    display: inline-block;
+    margin-left: 0;
+    padding: 0 8px 10px 8px;
+}
+	
+.signinbox {
+    width: 646px;
+    float: right;
+    margin-right: 60px;
+    padding: 70px 0 120px 0;
+}
+	
+.searaddathletes {
+    width: 255px;
+    height: 43px;
+    background: #545454;
+    float: left;
+    border-radius: 50px;
+}
+	
+.dashboard_l {
+    width: 100%;
+    background: #FFD500;
+    float: none;
+}
+
+.dashboard_r {
+    width: 100%;
+    background: #404040;
+    float: none;
+    padding: 0 15px 30px 15px;
+}
+	
+.serch {
+    width: 220px;
+    height: 44px;
+    background: #fff;
+    border-radius: 50px;
+    padding: 0 18px;
+    float: left;
+    margin-right: 20px;
+}
+	
+.serch input[type="text"] {
+    width: 73%;
+}
+	
+.dashboard_l {
+    width: 100%;
+    background: #FFD500;
+    float: none;
+}
+
+.dashboard_r {
+    width: 100%;
+    background: #404040;
+    float: none;
+    padding: 0 15px 30px 15px;
+}
+	
+.dashlogo {
+    margin-bottom: 30px;
+    display: block;
+    text-align: center;
+}
+	
+.button.menu-opened:before {
+    background: #000;
+}
+	
+.button.menu-opened:after {
+    background: #000;
+}
+	
+#cssmenu .submenu-button:before {
+    background: #000;
+}
+	
+#cssmenu .submenu-button:after {
+    background: #000;
+}
+	
+.button:before,  .button:after{
+    background: #000;
+	border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+	
+.button {
+    width: 55px;
+    height: 46px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    z-index: 12399994;
+    left: 0;
+    margin: 0 auto;
+}
+	
+#cssmenu > ul > li:last-child {
+    margin-top: 0;
+}
+	
+#cssmenu ul li {
+    margin-bottom: 0;
+}
+	
+#cssmenu ul li {
+    width: 100%;
+    border-top: 1px solid #444;
+    margin-bottom: 0;
+}
+	
+#cssmenu li:hover > ul {
+    left: 0px;
+    top: 0;
+    z-index: 999;
+}
+	
+	
+.followerspanel {
+    border-top: #2c2c2c solid 1px;
+    margin: 20px 0 0 0;
+    padding: 20px 10px 10px 10px;
+}
+	
+.followlink {
+    background: #DB0000;
+    padding: 8px 22px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 10px;
+    display: block;
+    margin: 0 0 15px 0;
+    text-align: center;
+}
+	
+.addtocompare {
+    background: #000;
+    padding: 8px 22px;
+    border-radius: 5px;
+    color: #FFD500;
+    font-size: 12px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    border: #FFD500 solid 1px;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+	
+.followerspanel {
+    border-top: #2c2c2c solid 1px;
+    margin: 20px 0 0 0;
+    padding: 20px 10px 10px 10px;
+}
+	
+.followlink {
+    background: #DB0000;
+    padding: 8px 22px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 10px;
+    display: block;
+    margin: 0 0 15px 0;
+    text-align: center;
+}
+	
+.addtocompare {
+    background: #000;
+    padding: 8px 22px;
+    border-radius: 5px;
+    color: #FFD500;
+    font-size: 12px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    border: #FFD500 solid 1px;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+	
+.followerspanel span {
+    margin-right: 8px;
+}
+	
+.followerspanel span:nth-child(1):before {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #FFD500;
+    position: absolute;
+    right: -9px;
+    top: 8px;
+    content: "";
+}
+	
+.dashbottom h4 {
+    padding: 20px 0 20px 0;
+	}
+	
+.chat_l_search input[type="text"] {
+    width: 76%;
+}
+	
+.chat_l_search .chatbtn {
+    width: 13%;
+}
+	
+.chatlistbox_l {
+    width: 38px;
+    height: 38px;
+}
+	
+.chatlistbox_mid {
+    float: left;
+    padding: 0px 0 0 5px;
+}
+	
+.chatlistbox_r {
+    float: right;
+    padding: 0 0px 0 0;
+}
+	
+.chatlistbox_r span {
+    margin: 0;
+}
+	
+.inputchat_l {
+    float: left;
+    width: 60%;
+}
+	
+.inputchat_r {
+    float: right;
+    width: 40%;
+}
+	
+.createteamingup_l {
+    padding: 10px;
+    background: #000;
+    border-radius: 10px;
+}
+	
+.createteamingup_l .form-group .form-control {
+    font-size: 13px  !important;
+}
+	
+.upload-btn-wrapper button.btn{
+	font-size:10px;
+}
+	
+.addathebox .add_athbtn, .addathebox .added_athbtn  {
+    padding: 7px 14px;
+}
+	
+.athletic_competencybox h6 {
+    padding: 0;
+    margin: 0;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'AeonikBold';
+    float: none;
+    width: 100%;
+}
+	
+.athletic_competencybox h4 {
+    padding: 16px 0 0 0;
+    margin: 0;
+    color: #FFD500;
+    font-size: 16px;
+    font-family: 'AeonikMedium';
+    float: none;
+    width: 100%;
+}
+	
+.coach_recommendation h4{
+	font-size: 13px;
+}
+	
+#coachslider .owl-controls .owl-nav .owl-prev {
+    top: -55px;
+}
+	
+#coachslider .owl-controls .owl-nav .owl-next {
+    top: -55px;
+}
+	
+	
+.gameboxheighlightsbox a {padding: 83px 0; font-size: 15px;}
+	
+.subcriptionbox {
+    width: 100%;
+    height: 562px;
+    margin: 50px auto 80px auto;
+    border: #707070 solid 1px;
+    border-radius: 10px;
+}
+	
+.subcriptionrdiobox {
+    background: #404040;
+    padding: 10px;
+    border-radius: 10px;
+    width: 129px;
+    height: 68px;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+}
+	
+	
+.TeamingUPbox_img {
+    width: 100%;
+    height: auto;
+}	
+	
+.teamingupdetails_l_member ul li a {
+    width: 100%;
+    border-bottom: #464646 solid 1px;
+    padding: 12px 12px;
+    display: block;
+    font-size: 11px;
+    font-family: 'AeonikRegular';
+    color: rgba(255,255,255,0.7);
+    letter-spacing: 1px;
+}
+	
+.teamingupdetails_l_member ul li a b {
+    border: #4BFF00 solid 1px;
+    border-radius: 50px;
+    background: #000;
+    color: #4BFF00;
+    float: right;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    padding: 3px 3px;
+    font-weight: normal;
+    font-size: 9px;
+}
+	
+.addvoiceedidancebox a {
+    padding: 61px 0 !important;
+}
+	
+.addyourdashboard {
+    background: #DB0000;
+    padding: 10px 9px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'AeonikMedium';
+    letter-spacing: 1px;
+}
+	
+.searchpanelbox {
+    position: relative;
+    top: 0;
+    right: 0;
+    display: inline-block;
+}
+	
+.tab-menu ul{
+	padding:15px 0 0 0;
+}
+	
+.tab-menu ul li a{
+	padding: 12px 47px;
+}
+	
+
+}
+
+
+
+
+
+
+
+/********************@media only screen and (min-width:1024px) and (max-width:1200px)********************/
+
+
+@media (min-width:992px) and (max-width:1199px) {
+
+.signinfooter {
+    padding: 0 25px 0 25px;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+	
+.createaccount2 {
+    width: 674px;
+    margin-right: 80px;
+    padding: 50px 0 100px 40px;
+    float: left;
+}
+	
+.dashboard_l {
+    width: 100%;
+    background: #FFD500;
+    float: none;
+}
+
+.dashboard_r {
+    width: 100%;
+    background: #404040;
+    float: none;
+    padding: 0 15px 30px 15px;
+}
+	
+.dashlogo {
+    margin-bottom: 30px;
+    display: block;
+    text-align: center;
+}
+	
+.button {
+    width: 55px;
+    height: 46px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    z-index: 12399994;
+    left: 0;
+    margin: 0 auto;
+}
+	
+#cssmenu > ul > li:last-child {
+    margin-top: 0;
+}
+	
+.button.menu-opened:before {
+    background: #000;
+}
+	
+.button.menu-opened:after {
+    background: #000;
+}
+	
+#cssmenu .submenu-button:before {
+    background: #000;
+}
+	
+#cssmenu .submenu-button:after {
+    background: #000;
+}
+	
+.button:before,  .button:after{
+    background: #000 !important;
+	border-bottom:#000 solid 1px;
+}
+	
+#cssmenu ul li {
+    margin-bottom: 0;
+}
+	
+#cssmenu ul li {
+    width: 100%;
+   border-top: 1px solid #a98e04;
+    margin-bottom: 0;
+}
+	
+#cssmenu li:hover > ul {
+    left: 0px;
+    top: 0;
+    z-index: 999;
+}
+	
+.addvideoevedancesmalltext {
+    width: 40%;
+    float: left;
+    margin: 0 25px 30px 0;
+}
+	
+.followerspanel {
+    border-top: #2c2c2c solid 1px;
+    margin: 20px 0 0 0;
+    padding: 20px 10px 10px 10px;
+}
+	
+.followlink {
+    background: #DB0000;
+    padding: 8px 22px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 10px;
+    display: block;
+    margin: 0 0 15px 0;
+    text-align: center;
+}
+	
+.addtocompare {
+    background: #000;
+    padding: 8px 22px;
+    border-radius: 5px;
+    color: #FFD500;
+    font-size: 12px;
+    font-family: 'AeonikMedium';
+    text-transform: uppercase;
+    border: #FFD500 solid 1px;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+	
+.followerspanel span {
+    margin-right: 8px;
+}
+	
+.followerspanel span:nth-child(1):before {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #FFD500;
+    position: absolute;
+    right: -9px;
+    top: 8px;
+    content: "";
+}
+	
+.dashbottom h4 {
+    padding: 20px 0 20px 0;
+	}
+	
+.inputchat_l {
+    float: left;
+    width: 75%;
+}
+	
+.inputchat_r {
+    float: right;
+    width: 25%;
+}
+	
+.gameboxheighlightsbox a {padding: 53px 0;}
+	
+.TeamingUPbox_img {
+    width: 100%;
+    height: auto;
+}
+	
+.teamingupdetails_l_member ul li a {
+    width: 100%;
+    border-bottom: #464646 solid 1px;
+    padding: 12px 12px;
+}
+	
+.addyourdashboard {
+    background: #DB0000;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'AeonikMedium';
+    letter-spacing: 1px;
+}
+	
+.addathebox .added_athbtn {
+    padding: 7px 41px;
+}
+	
+	.athlete_l h3{
+		font-size:13px;
+	}
+	
+.coach_recommendation h4 {
+    padding: 0 20px 15px 20px;
+    margin: 0;
+    color: #000000;
+    font-size: 13px;
+    font-family: 'AeonikMedium';
+    border-bottom: #969696 solid 1px;
+}
+	
+.addathebox .add_athbtn, .addathebox .added_athbtn  {
+    padding: 7px 14px;
+}
+
+}
+
+	
+/********************@media only screen and (min-width:1201px)********************/
+
+@media (min-width:1500px) and (max-width:1999px) {
+.workout_l_box {
+   height: 120px;
+}
+.slimScrollDiv #workout_l_box {
+    height: 776px !important;
+}
+	
+#workouts-category .slimScrollDiv{
+	 height:776px !important;
+}
+	
+.workoutl_panel{
+	max-width:20% !important;
+}
+	
+
+.workoutr_panel{
+	max-width:80% !important;
+}
+	
+
+	
+.TeamingUPbox_img {
+    width: 100%;
+    height: 260px;
+}
+	
+.addteamingup {
+    padding: 160px 0 160px 0;
+    text-align: center;
+    background: #383838;
+    border-radius: 10px;
+}
+	
+
+}
+
+@media (min-width:2000px) and (max-width:2999px) {
+.workout_l_box {
+    height: 146px;
+	overflow: hidden;
+	width: 300px;
+}
+	
+#myModal .workout_l_box {
+    height: 146px;
+    overflow: hidden;
+    width: 264px;
+}	
+	
+	
+.slimScrollDiv #workout_l_box {
+    height: 768px !important;
+}
+	
+#workouts-category .slimScrollDiv {
+    height: 768px !important;
+}
+	
+.workoutl_panel{
+	max-width:20% !important;
+}
+	
+.workoutr_panel{
+	max-width:80% !important;
+}
+	
+.TeamingUPbox_img {
+    width: 100%;
+    height: 370px;
+}
+	
+.addteamingup {
+    padding: 212px 0 212px 0;
+    text-align: center;
+    background: #383838;
+    border-radius: 10px;
+}
+	
+}
+
+
+
+@media (min-width:3000px) and (max-width:3400px) {
+
+.workoutl_panel{
+	max-width:20% !important;
+}
+	
+.workoutr_panel{
+	max-width:80% !important;
+}
+	
+}
+
+
+
+
+/********************@media only screen and (min-width:1201px)********************/

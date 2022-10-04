@@ -1,0 +1,1 @@
+[01-Mar-2022 03:49:12 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/pandastronger/public_html/staging/vendor/composer/platform_check.php on line 25
